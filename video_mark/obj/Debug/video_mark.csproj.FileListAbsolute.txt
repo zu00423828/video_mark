@@ -1,0 +1,15 @@
+D:\C#form\video_mark\video_mark\bin\Debug\video_mark.exe.config
+D:\C#form\video_mark\video_mark\bin\Debug\video_mark.exe
+D:\C#form\video_mark\video_mark\bin\Debug\video_mark.pdb
+D:\C#form\video_mark\video_mark\obj\Debug\video_mark.csprojAssemblyReference.cache
+D:\C#form\video_mark\video_mark\obj\Debug\video_mark.Form1.resources
+D:\C#form\video_mark\video_mark\obj\Debug\video_mark.Properties.Resources.resources
+D:\C#form\video_mark\video_mark\obj\Debug\video_mark.csproj.GenerateResource.cache
+D:\C#form\video_mark\video_mark\obj\Debug\video_mark.csproj.CoreCompileInputs.cache
+D:\C#form\video_mark\video_mark\obj\Debug\video_mark.exe
+D:\C#form\video_mark\video_mark\obj\Debug\video_mark.pdb
+D:\C#form\video_mark\video_mark\bin\Debug\Interop.WMPLib.dll
+D:\C#form\video_mark\video_mark\bin\Debug\AxInterop.WMPLib.dll
+D:\C#form\video_mark\video_mark\obj\Debug\Interop.WMPLib.dll
+D:\C#form\video_mark\video_mark\obj\Debug\AxInterop.WMPLib.dll
+D:\C#form\video_mark\video_mark\obj\Debug\video_mark.csproj.ResolveComReference.cache
